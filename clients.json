@@ -1,0 +1,17 @@
+[{
+    "nome": "Kirby",
+    "email":"kcoard8@squidoo.com",
+    "telefone":[
+        "9131313513",
+        "81399313132"
+    
+    ],
+    "endereco":{
+    "logradouro":"Rua Valley Edge",
+    "numero": "5",
+    "cep":"50315",
+    "apartamento":false,
+    "complemento": "Venda da tia romba"
+    
+}
+}]
